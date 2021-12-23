@@ -14,3 +14,5 @@ Deployment Details and Steps taken:
 Created a Azure Bot service and used QnA maker to add Knowledge base for the bot from Open Source FAQ section.
 Created a HTML page for the Front-End.
 Used Azure Static Web App for the deployment of the web page.
+
+Deployment Demo URL: https://mango-sand-0b80e6e00.azurestaticapps.net
