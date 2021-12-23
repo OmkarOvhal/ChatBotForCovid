@@ -9,3 +9,8 @@ Project Description: In this unforeseen Covid-19 pandemic situation, there are m
 There are many FAQ sections on the web, but people find it difficult to get there and read, also they are lazy to log on to these sites. 
 Various social media platforms are misguiding people with very different and illegal solutions/answers for their questions. 
 Thus, this project provides a very simplified and user-friendly chatbot to provide answers from WHO and Government trusted source/knowledge base
+
+Deployment Details and Steps taken:
+Created a Azure Bot service and used QnA maker to add Knowledge base for the bot from Open Source FAQ section.
+Created a HTML page for the Front-End.
+Used Azure Static Web App for the deployment of the web page.
