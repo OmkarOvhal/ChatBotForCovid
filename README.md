@@ -19,4 +19,4 @@ Deployment Demo URL: https://mango-sand-0b80e6e00.azurestaticapps.net
 (Currently not live due to azure subscription constraints)
 
 ### UI Snapshot:
-<img src="https://github.com/OmkarOvhal/ChatBotForCovid/assets/89487901/afbe9151-09fd-40d7-85c1-479d0251645c" width="600" height="600">
+<img src="https://github.com/OmkarOvhal/ChatBotForCovid/assets/89487901/afbe9151-09fd-40d7-85c1-479d0251645c" width="600">
